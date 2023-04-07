@@ -5,7 +5,6 @@
 .packages
 .pub/
 /build/
-.dart_tool/
 .idea/
 **/Pods/
 **/Podfile.lock
@@ -29,7 +28,6 @@ android/local.properties
 **/out/
 
 # Xcode related files
-ios/Pods/
 ios/Flutter/Flutter.framework/
 ios/Flutter/Flutter.podspec
 ios/Flutter/Generated.xcconfig
