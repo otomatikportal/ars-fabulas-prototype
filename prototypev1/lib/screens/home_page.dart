@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:prototypev1/page_not_found_screen.dart';
+import 'package:prototypev1/screens/page_not_found_screen.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/rendering.dart';
 
-import 'animations/buildpage_route.dart';
+import '../animations/buildpage_route.dart';
 import 'imagetext_screen.dart';
 
 class HomePage extends StatefulWidget {

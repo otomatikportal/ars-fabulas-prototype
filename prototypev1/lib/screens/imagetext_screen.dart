@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'animations/buildpage_route.dart';
+import '../animations/buildpage_route.dart';
 import 'home_page.dart';
 import 'image_data.dart';
 import 'package:provider/provider.dart';
